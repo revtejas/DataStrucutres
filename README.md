@@ -1,22 +1,22 @@
 # Data Structures Training Notes
 
-- [Day 1 (5/23)](#day-1-523)
-- [Day 2 (5/24)](#day-2-524)
-- [Day 3 (5/25)](#day-3-525)
-- [Day 4 (5/26)](#day-4-526)
-- [Day 5 (5/27)](#day-5-527)
-- [Day 6 (5/30)](#day-6-530)
-- [Day 7 (5/31)](#day-7-531)
-- [Day 8 (6/1)](#day-8-61)
-- [Day 9 (6/2)](#day-9-62)
-- [Day 10 (6/3)](#day-10-63)
-- [Day 11 (6/6)](#day-11-66)
-- [Day 12 (6/7)](#day-12-67)
-- [Day 13 (6/8)](#day-13-66)
-- [Day 14 (6/9)](#day-14-68)
-- [Day 15 (6/10)](#day-15-69)
+- [Day 1 ](#day-1-523)
+- [Day 2 ](#day-2-524)
+- [Day 3 ](#day-3-525)
+- [Day 4 ](#day-4-526)
+- [Day 5 ](#day-5-527)
+- [Day 6 ](#day-6-530)
+- [Day 7 ](#day-7-531)
+- [Day 8 ](#day-8-61)
+- [Day 9 ](#day-9-62)
+- [Day 10 ](#day-10-63)
+- [Day 11 ](#day-11-66)
+- [Day 12 ](#day-12-67)
+- [Day 13 ](#day-13-66)
+- [Day 14 ](#day-14-68)
+- [Day 15 ](#day-15-69)
 
-## Problems Solved (till date)
+## Problems Solved 
 
 - Practice Problems -> 31 
 - HackerRank -> 14 
@@ -31,7 +31,7 @@
 - [June 10 Coding Assessment -> 3](./June%2010%20Coding%20Assessment/README.md)
 
 
-## Day 1 (5/23)
+## Day 1 
 
 - [Why DSA](./Day1/README.md#why-datastructure-and-algorithms)
 - [What is DS](./Day1/README.md#ds)
@@ -45,7 +45,7 @@
 - [Imocha assessment questions - 3](./Day1/README.md#imocha-assessment)
 - Click [here](./Day1) to see the content
 
-## Day 2 (5/24)
+## Day 2 
 
 - What is it and Real time Examples of Linear and Non linear data structure
   - Arrays, Array2d, ArrayList, LinkedList, Stacks, Queue, Trees and Graphs
@@ -58,7 +58,7 @@
 - Click [here](./Day2) to see the content
   - **Note: You can find DataStructures PPT [here](./Day2/DataStructuresPPT.pdf)** 
 
-## Day 3 (5/25)
+## Day 3 
 
 - [SubArrays](./Day3#sub-arrays)
 - [Why LinkedList](./Day3#why-linkedlist)
@@ -70,7 +70,7 @@
 - [HackerRank Problems - 1](./Day3/README.md#hackerrank)
 - Click [here](./Day3) to see the content
 
-## Day 4 (5/26)
+## Day 4 
 
 - [HackerRank Problems - 7](./Day4/README.md#hackerrank-problems)
 - [Pattern Problems - 5](./Day4/README.md#pattern-problems)
@@ -79,7 +79,7 @@
 - [Imocha assessment questions - 4](./Day4/README.md#imocha-assessment)
 - Click [here](./Day4) to see the content
 
-## Day 5 (5/27)
+## Day 5 
 
 - [HackerRank Problem -1](./Day5#hackerrank-problems)
 - [LeetCode Problem - 1](./Day5#leetcode-problems)
@@ -88,7 +88,7 @@
 - [String Practice Problems - 5](/Day5#string-problems)
 - Click [here](./Day5) to see the content
 
-## Day 6 (5/30)
+## Day 6 
 
 - [Arrays Class](./Day6#arrays-class)
 - [String Methods](./Day6#string-class)
@@ -102,7 +102,7 @@
 - [Geeks for Geeks Problems -3](./Day6#geeks-for-geeks-problem-home-work-problems)
 - Click [here](./Day6) to see the content
 
-## Day 7 (5/31)
+## Day 7 
 
 - [Queues](./Day7#queue)
 - [Types of Queues](./Day7#types-of-queues)
@@ -113,7 +113,7 @@
 - [Geeks for Geeks Problems - 1](./Day7#geeks-for-geeks-problems)
 - Click [here](./Day7) to see the content
 
-## Day 8 (6/1)
+## Day 8 
 
 - [BigInteger](./Day8#biginteger)
 - [Decimal to Binary](./Day8#decimal-to-binary)
@@ -125,17 +125,17 @@
 - [Geeks for Geeks - 3](./Day8#geeks-for-geeks-problems)
 - Click [here](./Day8) to see the content
 
-## Day 9 (6/2)
+## Day 9 
 
 - Revision Session 
 - 1 on 1
 
-## Day 10 (6/3)
+## Day 10 
 
 - 1 on 1 
 - QC
 
-# Day 11 (6/6)
+# Day 11 
 
 - QC 
 - [Hash Tables](./README.md#hash-tables)
@@ -143,7 +143,7 @@
 - [Code Chef Problem -1](./README.md#code-chef-problems)
 - Click [here](./Day11) to see the content 
 
-## Day 12 (6/7)
+## Day 12 
 
 - [Introduction to Algorithms](./Day12/README.md#introduction-algorithm)
     - What is Algorithm
@@ -173,7 +173,7 @@
 - [Fibonacci Series Using Recursion](./Day12/README.md#fibonacci-series-using-recursion)
 - Click [here](./Day12) to see the content 
 
-## Day 13 (6/6)
+## Day 13 
 
 - [Tower of Hanoi](./Day13/towerOfHanoi.md)
 - [GCD of two number : Euclidean algorithm](./Day13/euclideanGCD.md)
@@ -181,7 +181,7 @@
 - [Geeks For Geeks Problem -1](./Day13/README.md#geeks-for-geeks-problem)
 - Click [here](./Day13) to see the content 
 
-## Day 14 (6/8)
+## Day 14 
 
 - [Graphs](./Day14#graphs)
   - What is Graphs
@@ -195,7 +195,7 @@
 - [Prims Algorithm](./Day14/primsAlg.md)
 - Click [here](./Day14) to see the content 
 
-## Day 15 (6/9)
+## Day 15 
 
 - [Searching Algorthims](./Day15/README.md#searching-algorthims)
   - [Binary Search](./Day15/BinarySearch/README.md)
